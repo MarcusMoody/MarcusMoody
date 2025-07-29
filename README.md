@@ -64,7 +64,7 @@
 I'm seeking mission-aligned teams where I can **learn fast**, **ship smart**, and **help real people**. Open to full-time, part-time, and creative collaborations.
 
 - 💼 [LinkedIn](https://linkedin.com/in/marcuslmoody)
-- 🧪 [Portfolio (Coming Soon)](troopl.com/marcusmoody)
+- 🧪 [Portfolio](troopl.com/marcusmoody)
 - 🎙️ [Moody Maestro on Instagram](https://www.instagram.com/moodymaestro/)
 
 > _“The best way to predict the future is to build it.” – Alan Kay_
